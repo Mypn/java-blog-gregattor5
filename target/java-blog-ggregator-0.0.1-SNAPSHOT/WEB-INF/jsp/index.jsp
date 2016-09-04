@@ -1,0 +1,2 @@
+index
+	&copy;Spring MVC!
